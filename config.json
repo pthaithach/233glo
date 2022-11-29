@@ -1,0 +1,38 @@
+{
+    "data": {
+        "store"     : "GLO Nail Spa",
+        "slug"      : "Glo-nail-spa",
+        "phone"     : "(719) 573-4224",
+        "email"     : "glonailspacos@gmail.com",
+        "address"   : "7935 Constitution Ave Suite 150, Colorado Springs, Colorado 80951",
+        "state"     : "Colorado 80951",
+        "ward"      : "Colorado Springs",
+        "time_1"    : "Mon - Sat: 09:30 AM - 07:00 PM",
+        "time_2"    : "Sun: 11:00 AM - 05:00 PM"
+        
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/glonailspacos",
+        "instagram" :   "https://www.instagram.com/glo_nail_spa",
+        "google"    :   "https://goo.gl/maps/HGRXBv8gTvB7vLsn6",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTExMTd8Z2xvbmFpbDc5MzV8Q09fMDgyNDJ8OWVkODg3OTYzNTVkMzhiOGQ2NWE2ZDczN2I2MGQwNTg=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3106.482397841759!2d-104.68079004863749!3d38.86720365622738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8713461a668e454b%3A0x3a667daacdc3cf79!2sGlo%20Nail%20Spa%20Colorado%20Springs!5e0!3m2!1sen!2s!4v1669632563960!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#971319",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
